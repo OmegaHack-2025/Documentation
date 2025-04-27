@@ -15,31 +15,28 @@ MindBreeze está estructurado en equipos especializados para asegurar una ejecuc
 
 ### Costos de Infraestructura
 
-- **Servidores:** $3000 USD por los 6 meses.
+- **Servidores:** $3000 USD por los 3 meses.
 
 ## Planificación de Sprints y Cronograma
 
-El desarrollo está organizado en **6 sprints** (uno por mes), bajo la metodología ágil **Scrum**:
+El desarrollo está organizado en **3 sprints** (uno por mes), bajo la metodología ágil **Scrum**:
 
 | Sprint | Objetivos Principales | Duración | Entregables |
 |:---|:---|:---|:---|
 | Sprint 1 | Arquitectura, bases de datos, setup inicial | 1 mes | Entorno de desarrollo configurado |
-| Sprint 2 | MVP, interfaces generales, integraciones básicas | 1 mes | Chatbot básico, integración con WhatsApp |
-| Sprint 3 | Sistema de puntos y gamificación | 1 mes | Primera versión del sistema de recompensas |
-| Sprint 4 | Intervenciones IA y notificaciones | 1 mes | IA básica funcional y envío de notificaciones |
-| Sprint 5 | Dashboard administrativo y reportes | 1 mes | Panel de administración + estadísticas |
-| Sprint 6 | Optimización, pruebas de usuarios y despliegue final | 1 mes | Producto listo para pruebas beta |
+| Sprint 2 | MVP básico: interfaces principales, chatbot básico, sistema de login | 1 mes | Chatbot básico, integración con WhatsApp |
+| Sprint 3 | Ajustes finales, QA, optimización y despliegue mínimo viable | 1 mes | Primera versión del sistema de recompensas |
 
 ## Costos Totales Estimados a 6 Meses
 
 | Concepto | Costo total (USD) |
 |:---|:---|
-| Recursos Humanos | 68,400 |
-| Servidores | 3,000 |
-| Marketing | 3,000 |
-| **Total** | **74,400** |
+| Recursos Humanos | 34,200 |
+| Servidores | 1,500 |
+| Marketing | 1,500 |
+| **Total** | **37,200** |
 
-> **Cálculo de Recursos Humanos:** 11,400 × 6 meses = 68,400
+> **Cálculo de Recursos Humanos:** 11,400 × 3 meses = 34,200
 
 ## Punto de Equilibrio
 
@@ -54,7 +51,7 @@ Para alcanzar el **punto de equilibrio**, considerando un modelo SaaS donde cobr
 
 Se plantea una captación progresiva de clientes:
 
-- **1 universidad cada 6 meses.**
+- **1 universidad cada 2 meses.**
 
 Proyección:
 
@@ -65,4 +62,4 @@ Proyección:
 | 18 | 3 | 9,000 | 11,400 | -2,400 |
 | 24 | 4 | 12,000 | 11,400 | 600 |
 
-> El **punto de equilibrio** se alcanzaría en el **mes 24** con 4 universidades activas.
+> El **punto de equilibrio** se alcanzaría en el **mes 9** con 4 universidades activas.
