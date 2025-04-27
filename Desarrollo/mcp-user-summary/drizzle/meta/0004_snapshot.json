@@ -1,0 +1,62 @@
+{
+  "id": "af898c74-eede-4f40-810c-ef620fecf1af",
+  "prevId": "f8049162-5dc2-458d-9b54-71d70a6035a6",
+  "version": "7",
+  "dialect": "postgresql",
+  "tables": {
+    "public.users": {
+      "name": "users",
+      "schema": "",
+      "columns": {
+        "id": {
+          "name": "id",
+          "type": "varchar(20)",
+          "primaryKey": true,
+          "notNull": true
+        },
+        "academic": {
+          "name": "academic",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "psycological": {
+          "name": "psycological",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "interpersonal": {
+          "name": "interpersonal",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "physical": {
+          "name": "physical",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false
+        }
+      },
+      "indexes": {},
+      "foreignKeys": {},
+      "compositePrimaryKeys": {},
+      "uniqueConstraints": {},
+      "policies": {},
+      "checkConstraints": {},
+      "isRLSEnabled": false
+    }
+  },
+  "enums": {},
+  "schemas": {},
+  "sequences": {},
+  "roles": {},
+  "policies": {},
+  "views": {},
+  "_meta": {
+    "columns": {},
+    "schemas": {},
+    "tables": {}
+  }
+}

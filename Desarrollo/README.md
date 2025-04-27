@@ -1,21 +1,38 @@
-# 💻 Desarrollo – OmegaLab 2025
+# Documentación técnica
 
-## ¡Bienvenidos a la carpeta de Desarrollo!
+## Resumen
 
-Aquí se debe subir **todo el material y avances técnicos** que el área de Desarrollo genere durante el reto OmegaLab 2025.
+MindBreeze es una solucón basada en LLMs, la cual detecta y previene altos niveles de estres
+en los estudiiantes universitarios. Para ello, brinda un acompañamiento personalizado al estudiante.
 
----
+## Stack Tenológico
 
-## 🛠️ ¿Qué tipo de contenidos pueden ir aquí?
+*Presentación*
+- **Framework/APIs**: React / Whatsapp API
+- **Lenguajes**: JavasCript, TypesScript
 
-- Código fuente del proyecto
-- Documentación técnica
-- Pruebas y prototipos funcionales
-- Avances de desarrollo y mejoras
-- Cualquier otro recurso relacionado con la parte técnica o de programación
+*Backend*
+- **Lenguajes**: Node.js
+- **Frameworks**: Express.js
+- **Arquitectura**: Basada en eventos
 
-> ℹ️ **Nota:** No es necesario seguir un formato exacto, pero es importante mantener el contenido organizado, claro y actualizado para facilitar su revisión.
+*Base de datos*
+- **Motor**: PostgreSQL
 
----
+*DevOps/ Infrastructura*
+- **Hosting**: AWS
+- **Contenedores**: Docker, Kubernetes
+- **CI/CD**: Github Actions
 
-¡Mucho éxito programando y creando cosas increíbles! 🚀
+*Otras Herramientas*
+- **Control de versiones**: Git
+
+
+## Pruebas y monitoreo
+Los mensajes se guardan en un datalake para su posterior refinamiento y análisis. En el cual se usará
+un modelo para clasificar mensajes y ver debilidades en las respuestas de a los usuarios.
+
+## Prototipos
+![p1](./images/prototipo1.jpg)
+![p2](./images/prototipo2.jpg)
+![p3](./images/prototipo3.jpg)
