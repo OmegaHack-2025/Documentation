@@ -30,7 +30,8 @@ en los estudiiantes universitarios. Para ello, brinda un acompañamiento persona
 
 ## Pruebas y monitoreo
 Los mensajes se guardan en un datalake para su posterior refinamiento y análisis. En el cual se usará
-un modelo para clasificar mensajes y ver debilidades en las respuestas de a los usuarios.
+un modelo para clasificar mensajes y ver debilidades en las respuestas de a los usuarios. Para logs y 
+métricas se usará kafka.
 
 ## Prototipos
 ![p1](./images/prototipo1.jpg)
