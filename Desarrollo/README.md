@@ -33,6 +33,10 @@ Los mensajes se guardan en un datalake para su posterior refinamiento y análisi
 un modelo para clasificar mensajes y ver debilidades en las respuestas de a los usuarios. Para logs y 
 métricas se usará kafka.
 
+## Diagrama de arquitectura
+
+![a1](./images/Architecture.png)
+
 ## Prototipos
 ![p1](./images/prototipo1.jpg)
 ![p2](./images/prototipo2.jpg)
